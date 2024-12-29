@@ -1,7 +1,5 @@
-# TrampScript
-TrampScript
 # TrumpScript <img src="https://raw.github.com/samshadwell/TrumpScript/master/TrumpScript.jpg" width="50px" height="50px" />
-Make Python great again
+TrumpScript is not just another Python-based programming language; it's a movement. By joining the TrumpScript community, you're not only coding but also contributing to making this groundbreaking language a global phenomenon. Together, we'll power the future with $TS, the cryptocurrency inspired by TrumpScript, bringing innovation to both tech and finance. Spread the word, write your code, and let's make programming great again!
 
 ## Mission
 TrumpScript is a language based upon the illustrious Donald Trump. As the undeniably best US President, we found that the current field of programming languages does not include any that Trump's glorious golden combover would approve of.
@@ -94,20 +92,6 @@ If this page entertained you, consider making a donation to your favorite charit
 I'm a fan of the [Electronic Frontier Foundation](https://www.eff.org), [donate here](https://supporters.eff.org/donate/button)
 
 There's also [Hillary Clinton](https://www.hillaryclinton.com/contribute/donate/), and of course [Donald Trump himself. ](http://www.reactiongifs.com/r/saywha.gif)
-
-## Because We've Sold Out
-If you're feeling extra generous, you can also buy us a beer (or two) for more brainstorming because our small loan of a million dollars wasn't enough:
-
-Paypal:
-[paypal.me/Shadwell](https://paypal.me/Shadwell)
-
-Bitcoin:
-[1AKK76WNmQheCYgZEksB61Jyp1voYxN63v](bitcoin:1AKK76WNmQheCYgZEksB61Jyp1voYxN63v)
-
-## Hey, this repo seems pretty dead...
-This project is (probably) not totally dead, and we'll get back to it eventually, but hold tight for now, since we're all busy students full-time.
-
-But by all means, please submit a pull request! We're all just shocked this has blown up so much, and we'd love to get this language implemented "properly!"
 
 ## Media
 Hey, cool, [we got an article on Inverse written about us!](https://www.inverse.com/article/10448-coders-assimilate-donald-trump-to-a-programming-language)
