@@ -124,3 +124,13 @@ Dan Korn, [@DnlRKorn](https://github.com/DnlRKorn)
 Chris Brown, [@CryoBrown](https://github.com/CryoBrown)
 
 Cannon Lewis, [@cannon10100](https://github.com/cannon10100)
+
+## Nutrition Bot
+
+This repository now includes a simple Telegram bot in `nutrition_bot/` that demonstrates how to build a diet assistant. It uses `python-telegram-bot` and a GigaChat client for meal planning. Configure the required tokens in a `.env` file based on `.env.template` and install dependencies from `requirements.txt`.
+
+Start the bot with:
+
+```bash
+python -m nutrition_bot.bot
+```
