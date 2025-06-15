@@ -1,0 +1,1 @@
+"""Simple diet bot module."""
