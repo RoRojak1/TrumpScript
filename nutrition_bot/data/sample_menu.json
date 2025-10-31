@@ -1,0 +1,5 @@
+[
+  {"name": "гречка", "quantity": 1, "unit": "kg"},
+  {"name": "томаты", "quantity": 750, "unit": "g"},
+  {"name": "яйца", "quantity": 10, "unit": "pcs"}
+]
